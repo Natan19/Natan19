@@ -9,7 +9,7 @@
   
 👨‍💻 20 Years old Developer  
 👨‍🎓 Studying Computer Science here in Brazil at Universidade do Sul de Santa Catarina.  
-🚧 **Current Project:** [![Currently not working on anything] (https://github.com/natan19)
+🚧 **Current Project:** [![Currently not working on anything](https://github.com/natan19)
 
 ⭐️ From [lucafluri](https://github.com/lucafluri)
 
