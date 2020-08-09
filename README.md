@@ -22,9 +22,9 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://natangazola.me/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/natan-gazola/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/natangazzola/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://natangazola.me/"><img alt="Website" src="https://img.shields.io/badge/Website-natangazola.me-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/natan-gazola/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Natan%20Pereira%20Gazola-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/natangazzola/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-natangazzola-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:nathanpereira.21@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nathanpereira.21@hotmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
