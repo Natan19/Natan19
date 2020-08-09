@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and searching for cool ideas to turn into code.
 - 🎓 &nbsp; Studying Computer Science at Universidade do Sul de Santa Catarina.
 - 💼 &nbsp; Working as a Junior Web Developer at SENAI/SC.
 - 🌱 &nbsp; Learning more about Mathematics, Docker & Kubernetes and AWS.
@@ -11,9 +11,9 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; PHP | Java | Javascript
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | Vue
 - 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Markdown | Neovim
+- 🔧 &nbsp; Git | Markdown | Neovim | PHPStorm 
 
 <br/>
 
