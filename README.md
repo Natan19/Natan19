@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Natan19&show_icons=true">
 
-### Hi there I'm Natan :raised_hand:
+### Hi there, I'm Natan :raised_hand:
 
 [![natangazola.me](https://img.shields.io/static/v1?label=natangazola.me&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://natangazola.me/)
 [![@natangazzola](https://img.shields.io/static/v1?label=@natangazzola&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/natangazzola/)
