@@ -10,4 +10,4 @@
   
 👨‍💻 21 Years old Developer  
 🎓 Studying Computer Science here in Brazil at Universidade do Sul de Santa Catarina.  
-🚧 **What I'm up to:** Currently focusing on strenghtening my coding and english skills.
+🚧 **What I'm up to:** Currently focusing on strenghtening my coding, math and english skills.
