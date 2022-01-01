@@ -8,6 +8,6 @@
 [![Linkedin](https://img.shields.io/static/v1?label=Natan%20Pereira%20Gazola&message=%20&color=blue&logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/natan-gazola/)
   
   
-👨‍💻 20 Years old Developer  
+👨‍💻 21 Years old Developer  
 🎓 Studying Computer Science here in Brazil at Universidade do Sul de Santa Catarina.  
-🚧 **What I'm up to:** Currently focusing on learning bash/shell scripting and English.
+🚧 **What I'm up to:** Currently focusing on strenghtening my coding and english skills.
