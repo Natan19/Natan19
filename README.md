@@ -7,5 +7,5 @@
   
   
 👨‍💻 24 Years old Developer  
-🎓 Bachelor in Computer Science at Universidade do Sul de Santa Catarina. 
+🎓 Bachelor in Computer Science at Universidade do Sul de Santa Catarina.\
 🚧 **What I'm up to:** Currently focusing on strenghtening my coding, math and english skills.
